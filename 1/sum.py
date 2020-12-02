@@ -32,7 +32,7 @@ print(values)
 for i in range(len(values)):
     x = values[i]
     matching = 2020 - x
-    print(x, matching)
+    # print(x, matching)
     if matching in values[i:]: # since we only checking later values in the array, it won't have to check the existance of duplicates
         print(f"The numbers are: {x} and {matching}")
         print(f"The number is: {x*matching}")
