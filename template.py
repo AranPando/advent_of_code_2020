@@ -1,7 +1,7 @@
 '''
     A file called input.txt contains numbers on each line. 
     
-    Boss: "SOLIDER!- IT IS YOUR-"
+    Boss: "SOLIDER! IT IS YOUR-"
     Me: "yes yes, I can read, thanks."
     Boss: NANI?!
 
