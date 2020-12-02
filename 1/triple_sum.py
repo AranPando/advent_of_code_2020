@@ -28,7 +28,6 @@ for i in range(len(values)):
         matching = 2020 - x - y
         # print(x, y, matching)
         if matching in values[j:]: # since we only checking later values in the array, it won't have to check the existance of duplicates
-            print("============================")
             print(f"The numbers are: {x}, {y}, {matching}")
             print(f"The number is: {x*y*matching}")
             end = True
