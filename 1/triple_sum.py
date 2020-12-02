@@ -17,7 +17,7 @@ with open('input.txt', 'r') as f:
     for x in f:
         values.append(int(x.replace('\n','')))
 
-print(values)
+# print(values)
 
 # Iterate through the array in a nested loop, such that you have two values and then search the arary for the third possible matching one.
 end = False

@@ -14,7 +14,7 @@ with open('input.txt', 'r') as f:
     for x in f:
         values.append(int(x.replace('\n','')))
 
-print(values)
+# print(values)
 
 # For each value in the array search the array for the matching value that sums to 2020
 
